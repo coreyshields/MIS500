@@ -10,9 +10,6 @@ my_data <- data.frame(
                 scores = c(tScore_before,  tScore_after)
 
                 )
-
- 
-
 # Print all data
 print(my_data)
 #Compute summary statistics by groups
